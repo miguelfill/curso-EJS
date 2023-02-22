@@ -14,6 +14,6 @@ O EJS (Embedded JavaScript templating) é uma linguagem de modelagem para criaç
 - Se eu fizer alterações em algum arquivo EJS eu não preciso reiniciar o servidor, basta recarregar a página, mas se eu fizer alterações em arquivos JS eu preciso parar o servidor e roda-lo novamente;
 - O EJS permite que a gente passe objetos para o que a gente tá incluindo;
 
-![Vídeo do jogo](https://github.com/miguelfill/curso-EJS/blob/main/curso-node-EJS.gif)
+![Vídeo do jogo](https://github.com/miguelfill/curso-EJS/blob/main/Curso-node-EJS.gif)
 
 
