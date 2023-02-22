@@ -4,7 +4,7 @@
 
 O EJS (Embedded JavaScript templating) é uma linguagem de modelagem para criação de páginas HTML utilizando JavaScript, ou seja, o EJS permite que a gente crie uma página HTML dentro do Node, tudo renderizado pelo JS.
 
-## Algumas coisas abordadas nesse curso:
+## Algumas coisas ensinadas ao longo do curso:
 
 - Criar um servidor usando o módulo express;
 - incluir arquivos EJS usando <%- include(); %>;
